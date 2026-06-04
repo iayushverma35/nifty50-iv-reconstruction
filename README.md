@@ -4,7 +4,6 @@
 This repository contains my submission for the Finance Club Open Project (PS1/PS2). The objective of this project was to reconstruct missing implied volatility (IV) values across a minute-by-minute Nifty50 options chain dataset.
 
 ## Performance
-* **Final Rank:** Top 1% (Rank 77)
 * **Final MSE Score:** 0.000163
 
 ## Quantitative Methodology
